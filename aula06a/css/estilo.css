@@ -1,0 +1,26 @@
+p{
+    color:blueviolet
+}
+
+.um{
+    color:blue;
+    border: 2px solid gray;
+    background-color: pink;
+}
+
+.dois{
+    color: brown;
+    border: 2px solid pink;
+    background-color: chartreuse;
+}
+
+.tres{
+    color: blueviolet;
+    border: 2px solid black;
+    background-color: aquamarine;
+}
+#titulo{
+    color:blueviolet;
+    border: 2px solid burlywood;
+    background-color:beige;
+}
