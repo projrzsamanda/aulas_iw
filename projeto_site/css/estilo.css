@@ -1,0 +1,18 @@
+.banner{
+    width: 100%;
+}
+
+header{
+    background-color: blanchedalmond;
+}
+
+.container{
+    width: 80%;
+    background-color: lavenderblush ;
+    margin: auto;
+}
+
+
+footer{
+    background-color: lightpink;
+}
